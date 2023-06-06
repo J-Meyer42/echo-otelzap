@@ -1,4 +1,4 @@
-module github.com/brpaz/echozap
+module github.com/J-Meyer42/echozap
 
 go 1.18
 
